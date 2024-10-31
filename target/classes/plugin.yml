@@ -1,0 +1,10 @@
+name: BoomPlayer
+version: '1.0-SNAPSHOT'
+main: com.plugins.cetonix.boomPlayer.BoomPlayer
+api-version: '1.18'
+authors: [ Cetonix ]
+description: My First Plugin. Kill player 50% on listeners.
+commands:
+  killtry:
+    aliases: kt
+    usage: /kt (kill sender 50%)
